@@ -22,6 +22,18 @@ header > div > button {
   margin-left: 0.5em;
 }
 
+.navbar {
+  background-color: #0aa200 !important;
+}
+
+.navbar-brand {
+    color: #efffef !important;
+}
+
+.navbar-nav > li > a {
+    color: #efffef !important;
+}
+
 .range-slider {
   margin-top: 8px;
   margin-bottom: 8px;
